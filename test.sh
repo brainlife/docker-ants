@@ -1,1 +1,1 @@
-singularity exec docker://brainlife/ants bash
+singularity exec docker://brainlife/ants:2.2.0 bash
